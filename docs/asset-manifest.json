@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.76c2e6a7.chunk.js",
-    "main.js.map": "/static/js/main.76c2e6a7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5c4b0b99.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5c4b0b99.js.map",
-    "static/js/2.72a49a38.chunk.js": "/static/js/2.72a49a38.chunk.js",
-    "static/js/2.72a49a38.chunk.js.map": "/static/js/2.72a49a38.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.72a49a38.chunk.js.LICENSE.txt": "/static/js/2.72a49a38.chunk.js.LICENSE.txt"
+    "main.js": "https://cihan-kurt.github.io/react-kurs/static/js/main.76c2e6a7.chunk.js",
+    "main.js.map": "https://cihan-kurt.github.io/react-kurs/static/js/main.76c2e6a7.chunk.js.map",
+    "runtime-main.js": "https://cihan-kurt.github.io/react-kurs/static/js/runtime-main.07896a48.js",
+    "runtime-main.js.map": "https://cihan-kurt.github.io/react-kurs/static/js/runtime-main.07896a48.js.map",
+    "static/js/2.72a49a38.chunk.js": "https://cihan-kurt.github.io/react-kurs/static/js/2.72a49a38.chunk.js",
+    "static/js/2.72a49a38.chunk.js.map": "https://cihan-kurt.github.io/react-kurs/static/js/2.72a49a38.chunk.js.map",
+    "index.html": "https://cihan-kurt.github.io/react-kurs/index.html",
+    "static/js/2.72a49a38.chunk.js.LICENSE.txt": "https://cihan-kurt.github.io/react-kurs/static/js/2.72a49a38.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c4b0b99.js",
+    "static/js/runtime-main.07896a48.js",
     "static/js/2.72a49a38.chunk.js",
     "static/js/main.76c2e6a7.chunk.js"
   ]
